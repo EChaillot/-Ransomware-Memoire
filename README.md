@@ -2,7 +2,7 @@
 
 ## Description
 
-Ce projet est un ransomware écrit en C, développé dans le cadre de mon projet de fin d'année de licence. Il est important de noter que ce projet a été réalisé seul et qu'il présente certaines lacunes et imperfections notamment lors de l'appel de fonction, et surtout un manque cruel d'optimisation.
+Ce projet est un ransomware écrit en C, développé dans le cadre de mon projet de fin d'année de licence. Il est important de noter que ce projet a été réalisé seul et qu'il présente certaines lacunes et imperfections notamment lors de l'appel de fonction, un manque d'optimisation et surtout l'importation de la library Tiny-AES qui a ete fait de facon "expéditive".
 
 ## Fonctionnalités
 
